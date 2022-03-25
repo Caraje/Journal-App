@@ -1,0 +1,12 @@
+@import './base/base';
+@import './base/settings';
+
+// Globales
+@import './components/buttons';
+@import './components/links';
+
+// Componentes
+@import './components/auth';
+@import './components/journal';
+@import './components/nothingSelected';
+@import './components/notes'
